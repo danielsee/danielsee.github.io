@@ -11,6 +11,8 @@
 <p>fuck</p>
 <?php
 echo "Hello World!";
+$name="daniel see";
+echo $name;
 ?>
 
 <form method="post" action="contact.php">
